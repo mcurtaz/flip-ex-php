@@ -1,2 +1,2 @@
-# flip-ex-php
+# Flip-ex-php
 Just a logical exercise
